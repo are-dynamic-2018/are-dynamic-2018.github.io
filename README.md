@@ -1,6 +1,12 @@
 # Site de l'ARE Dynamic 2018 (UPMC)
 
-Liste des projets des étudiants :
+### Slides
+
+- [Introduction à GitHub (S5 20/02/2018)](https://are-dynamic-2018.github.io/slides/slides-s5.pdf)
+
+
+### Liste des projets des étudiants
+
 - [Dynamique profs-etudiants](https://are-dynamic-2018.github.io/Dynamic-profs-etudiants/)
 - [Toure Benyahia & Capitano](https://are-dynamic-2018.github.io/Toure_Benyahia_Capitano/)
 - [Dynamique des Pokémons](https://are-dynamic-2018.github.io/Dynamique-des-Pokemons/)
