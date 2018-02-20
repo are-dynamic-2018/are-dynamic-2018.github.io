@@ -1,5 +1,3 @@
-# Site de l'ARE Dynamic 2018 (UPMC)
-
 ### Slides
 
 - [Introduction à GitHub (S5 20/02/2018)](https://are-dynamic-2018.github.io/slides/slides-s5.pdf)
